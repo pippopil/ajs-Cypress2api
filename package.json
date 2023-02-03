@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "cypress": "^12.5.1"
+  },
+  "name": "ajs-cypress2-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pippopil/ajs-Cypress2api.git"
+  },
+  "author": "pip",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pippopil/ajs-Cypress2api/issues"
+  },
+  "homepage": "https://github.com/pippopil/ajs-Cypress2api#readme",
+  "description": ""
+}
